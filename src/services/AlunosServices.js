@@ -7,6 +7,10 @@ class AlunosServices {
     }
 
     async insertAluno( data ){
+        count++;
+        if (count > 100){
+            throw new Error("Limite de alunos atingido: 100")
+        }
         return await Alunos.create( data );
     }
 

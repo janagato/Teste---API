@@ -4,9 +4,9 @@ const RespostasSchema = new Schema({
     respostas   : [AlternativaSchema],
     notas:{
         type: Number,
-        required: true
-    }
-
+        min:[0,'Nenhuma questão foi respondida corretamente'],
+        max:10,
+        required: true}
 });
 
 module.exports = model('respostas', RespostasSchema);

@@ -1,8 +1,12 @@
 const {Schema} = require("mongoose");
 const AlternativaSchema = new Schema({
     questao: Number,
-			peso: Number,
-			resposta: String
+            peso: {
+                type: Number,
+                min: 1,
+                max: 1,
+                required: true},
+	resposta: String
 
 })
-module.exports = AlternativaSchema
+module.exports = AlternativaSchema;
