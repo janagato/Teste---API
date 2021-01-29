@@ -2,8 +2,8 @@
 teste_escola_Alf
 
 <h2><a href="#information_source-how-to-use"></a>ℹ️ How To Use</h2>
-<p>To clone and run this application, you'll need <a href="https://git-scm.com" rel="nofollow">Git</a>, <a href="https://nodejs.org/" rel="nofollow">Node.js</a> installed on your computer.</p>
-<p>From your command line:</p>
+<p>Para clonar e rodar esta aplicação, você irá precisar de <a href="https://git-scm.com" rel="nofollow">Git</a>, <a href="https://nodejs.org/" rel="nofollow">Node.js</a> instalado em seu computador.</p>
+<p>Para a linha de comando de executáveis:</p>
 
 <span class="pl-c"><span class="pl-c">#</span> Install dependencies</span>
 $ npm install
