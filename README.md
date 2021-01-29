@@ -10,3 +10,5 @@ $ npm install
 
 <span class="pl-c"><span class="pl-c">#</span> Run the API</span>
 $ npm start</pre></div>
+
+<p>Esta API foi criada com o intuito de simular um sistema de criação de provas escolares. Funciona na base do envio de arquivos JSON com as Strings necessárias para seu funcionamento.</p>
