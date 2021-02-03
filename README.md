@@ -5,10 +5,10 @@ teste_escola_Alf
 <p>Para clonar e rodar esta aplicação, você irá precisar de <a href="https://git-scm.com" rel="nofollow">Git</a>, <a href="https://nodejs.org/" rel="nofollow">Node.js</a> instalado em seu computador.</p>
 <p>Para a linha de comando de executáveis:</p>
 
-<span class="pl-c"><span class="pl-c">#</span> Install dependencies</span>
+<span class="pl-c"><span class="pl-c">#</span> Instalar as dependências </span>
 $ npm install
 
-<span class="pl-c"><span class="pl-c">#</span> Run the API</span>
+<span class="pl-c"><span class="pl-c">#</span> Iniciar a API</span>
 $ npm start</pre></div>
 
-<p>Esta API foi criada com o intuito de simular um sistema de criação de provas escolares. Funciona na base do envio de arquivos JSON com as Strings necessárias para seu funcionamento.</p>
+<p>Esta API foi criada com o intuito de simular um sistema de criação de provas escolares. Funciona na base do envio de arquivos JSON com as Strings necessárias para seu funcionamento. Dentro do programa estão os campos que devem ser preenchidos, além da interface ser intuitiva. Para qualquer dúvida, estou a disposição</p>
